@@ -1,0 +1,122 @@
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\EFCore.exe
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\EFCore.deps.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\EFCore.runtimeconfig.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\EFCore.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\EFCore.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.Form1.resources
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.csproj.GenerateResource.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.csproj.CopyComplete
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\refint\EFCore.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\EFCore\EFCore\obj\Debug\net6.0-windows\ref\EFCore.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\EFCore.exe
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\EFCore.deps.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\EFCore.runtimeconfig.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\EFCore.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\EFCore.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.Form1.resources
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.csproj.GenerateResource.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.csproj.CopyComplete
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\refint\EFCore.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\EFCore.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week VI EFCore\EFCore\obj\Debug\net6.0-windows\ref\EFCore.dll
